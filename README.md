@@ -1,4 +1,4 @@
-Hey, I'm Ekansh 👋
+##Hey, I'm Ekansh 👋
 
 🎓 B.Tech CSE Student
 💻 Learning Python & Software Development
