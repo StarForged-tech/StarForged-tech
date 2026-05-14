@@ -3,7 +3,7 @@
 🎓 B.Tech CSE Student
 💻 Learning Python & Software Development
 🚀 Exploring AI, GenAI & Real-World Projects
-📚 Building skills step-by-step and show casing my journey 
+📚 Building skills step-by-step and showcasing my journey 
 
 Current Focus
 
